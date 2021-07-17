@@ -1,2 +1,1 @@
-This is another text.
 Just some text in test2
