@@ -1,2 +1,1 @@
-This is just some text.
-Just some text in test1
+To test commits...
